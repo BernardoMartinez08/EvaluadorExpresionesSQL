@@ -33,6 +33,8 @@ public class Ejemplos_Queries {
     
     //Atributo que almacena el resultado devuelto de una consulta
     private static ResultSet result;
+    //Hola Mundo
+    //Hola mundo 2
     
     
 //Ejemplo de consulta  de Seleccion (Select)
